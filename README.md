@@ -1,2 +1,2 @@
-# password-generator-
+# password-generator
 password-generator assignment 
